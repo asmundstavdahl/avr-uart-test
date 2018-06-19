@@ -10,7 +10,7 @@ connected to your computer via RS232.
 
 ## Porting to other chips
 
-- configure Makefile; se Makefile for instructions
+- configure Makefile; see Makefile for instructions
 - tweak uart.c, specifically:
   - uart_init
   - uart_rx_ready
